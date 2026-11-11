@@ -1,0 +1,3 @@
+# Metocean-Fatigue Correlation Model
+
+Python-based fatigue analysis using JONSWAP spectral modelling and Jubilee TRP3 metocean data. Implements hourly damage calculations, polynomial regression (degrees 1–3), 5-fold cross-validation, R² and MAE evaluation, residual analysis, and interactive fatigue damage visualisation.
