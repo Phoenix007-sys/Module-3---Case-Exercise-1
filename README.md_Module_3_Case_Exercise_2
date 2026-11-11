@@ -1,0 +1,3 @@
+# Extreme Value Analysis of Significant Wave Height (Hs)
+
+This project applies GEV Block Maxima and Peaks Over Threshold (POT) methods to Jubilee TRP3 metocean data. It includes MRL-based threshold selection, GEV/GPD return level comparisons (1, 10, 50 and 100 years), confidence intervals, and validation against reference values in Table 3.6.
